@@ -16,5 +16,7 @@ Python notebooks using Selenium and BeautifulSoup to scrape USAPA pickleball ski
     
  'all divisions combined 17 Dec 2018.csv' is data pulled on 17 Dec 2018
  
+ 'all divisions combined 3 Jan 2019.csv' is data pulled on 3 Jan 2019
+ 
  'putting it together.ipynb' is an older version of 'soup takes html and outputs csv.ipynb' that had trouble
    with the encoding at times.
